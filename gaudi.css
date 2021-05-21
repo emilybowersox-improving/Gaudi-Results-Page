@@ -1,6 +1,13 @@
 
+#images {
+    margin: auto;   
+}
 
 #images > img {
     margin: 0.5em;
     width: 15em;
 }
+
+/* .hidden {
+    display: none;
+  } */
